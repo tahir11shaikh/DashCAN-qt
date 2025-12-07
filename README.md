@@ -1,4 +1,5 @@
 🧰 DashCAN — Open Source CAN Bus Monitoring Tool(DashCAN-Overview video link: https://drive.google.com/file/d/1XMqV9JXD6d6TOGpGYja2csdfHu0FnINa/view?usp=drive_link)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8bea9ddc-c831-4c13-acce-b8b4e7e3b724" />
 
 DashCAN is an open-source Windows application for monitoring, analyzing, and visualizing CAN bus communication.
 Developed in C++/Qt (Open Source), DashCAN provides a modern, flexible, and community-driven alternative to proprietary tools such as BusMaster or PCAN-Explorer, with a strong focus on real-time DBC decoding, visualization, and workspace management.
